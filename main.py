@@ -3,7 +3,6 @@ import pandas as pd
 import random
 import time
 
-# --------------------------------- CONSTANTS --------------------------------- #
 BACKGROUND_COLOR = "#B1DDC6"
 
 # --------------------------------- DATAFRAME ---------------------------------------- #
