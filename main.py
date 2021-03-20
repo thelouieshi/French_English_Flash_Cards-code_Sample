@@ -1,3 +1,8 @@
+# This is a code sample.
+# This application uses the vocabulary list in ./data/french_words.csv to create a vocabulary learning flash card.
+# Please feel free to download and modify for your own purpose. 
+
+
 from tkinter import *
 import pandas as pd
 import random
