@@ -78,3 +78,6 @@ wrong_button.grid(column=0, row=2)
 know_word()
 # window close
 window.mainloop()
+
+# - For more of my projects, fun games and useful applicatons, 
+# - please visit: https://github.com/thlouieshi?tab=repositories
